@@ -1,7 +1,7 @@
 py-snakeskin
 ============
 
-A small miniproject to procedurally generate snakeskin like patterns
+A small miniproject to procedurally generate snakeskin like patterns using Python (no pun intended) and PIL. 
 
 The script will output images like the following:
 
